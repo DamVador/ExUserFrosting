@@ -5,6 +5,7 @@
     "base": [
         "core",
         "account",
-        "admin"
+        "admin",
+        "site"
     ]
 }
